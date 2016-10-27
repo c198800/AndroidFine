@@ -18,7 +18,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 public class MainActivity extends BaseFragmentActivity {
-
+    private int a = 1;
     private static final String TAG = MainActivity.class.getSimpleName();
     private static final String CURR_INDEX = "currIndex";
     private static int currIndex = 0;
